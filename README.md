@@ -3,9 +3,7 @@ The VIXY (ProShares VIX Short-Term Futures ETF) is a fund that tracks market vol
 during periods of sudden macroeconomic stress or market uncertainty. To maintain a constant one-month maturity, the fund
 must roll its futures contracts on a daily basis. Since VIXY is heavily impacted by contango (market state where longer-dated
 VIX futures are more expensive than near-term ones), VIXY must sell cheaper, expiring futures, and buy more expensive
-next-month contracts. As a result, this negative roll yield (selling low and buying high) causes the fund’s net asset value to git add README.md
-git commit -m "Fix README paragraph spacing"
-git push origin HEAD:mainconsistently decay over time.
+next-month contracts. As a result, this negative roll yield (selling low and buying high) causes the fund’s net asset value to consistently decay over time. 
 
 Due to VIXY’s structural downward drift, VIXY has become a big target for short sellers. However, high demand to
 short the ETN leads to limited availability. Brokers classify VIXY as hard to borrow and charge high daily borrow fees that
